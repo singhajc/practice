@@ -1,5 +1,6 @@
 #!/bin/bash
 # File: guessinggame.sh
+# Program to interact with user input to guess the correct number of files in dir.
 
 function check # check if guess is too high or too low
 {
